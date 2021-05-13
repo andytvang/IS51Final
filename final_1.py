@@ -1,4 +1,4 @@
-"""
+"""Structured-English
 start
 
 create a program that displays the grades of the students on their final
@@ -7,12 +7,27 @@ above the average.
 
 Number of grades = 24.
 Average grade = 83.25
-Percentage of grades above average = 54.17%
+Percentage of grades above class average = 54.17%
 
-Use open method to bring the list in a dictionary
+Use open method to bring the list of grades in a dictionary
 Then, grades will be listed as integers
 Calculate grades
 
 end
 """
+"""Pseudo-Code
 
+main()
+
+    infile = open(txt)
+    display the number of grades
+    print("The amount of grades is")
+
+    display the average grade
+    print("Average grade is")
+
+    calculate
+    print("Percentage of grades above class average")
+    
+"""
+    
